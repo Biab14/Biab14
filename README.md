@@ -2,7 +2,7 @@
 <h1>Bem vindo ao meu perfil! <br> Me chamo Bianca, tenho 19 anos e estou no 4° semestre de Ciência da Computação!<h1>
 <br><br>
 
- 🌱 Linguagens que estou estudando:<br>
+<h2>🌱 Linguagens que estou estudando:<br></h2>
 ➡️**Java (iniciante)**;
 <br>
 ➡️**Python (iniciante)**;
@@ -16,7 +16,8 @@
 ➡️**JS (intermediário)**.
 <br><br>
 
- 📫 Contatos: <br>
+<h3>📫 Contatos:</h3> 
+ <br>
 <a href="https://www.linkedin.com/in/bianca-santos-ferreira-95a56a300" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
