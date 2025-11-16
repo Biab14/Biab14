@@ -3,17 +3,17 @@
 <br>
  
 <h2>🌱 Linguagens que estou estudando:<br>
-➡️**Java (iniciante)**;
+➡️Java (iniciante);
 <br>
-➡️**Python (iniciante)**;
+➡️Python (iniciante);
 <br>
-➡️**C (intermediário)**;
+➡️C (intermediário);
 <br>
-➡️**PHP(iniciante)**;
+➡️PHP(iniciante);
 <br>
-➡️**SQL(iniciante)**;
+➡️SQL(iniciante);
 <br>
-➡️**JS (intermediário)**.
+➡️JS (intermediário).
 </h2>
 <br>
 
