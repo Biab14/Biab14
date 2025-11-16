@@ -1,8 +1,4 @@
-<style>
-  h1
-  {align-itens: center;
-  color:pink;}
-</style>
+
 <h1>Bem vindo ao meu perfil! <br> Sou estudante de Ciência da Computação<h1>
 
 <!--
