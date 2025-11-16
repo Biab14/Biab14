@@ -9,6 +9,10 @@
 <br>
 ➡️**C (intermediário)**;
 <br>
+➡️**PHP(iniciante)**;
+<br>
+➡️**SQL(iniciante)**;
+<br>
 ➡️**JS (intermediário)**.
 <br><br>
 
