@@ -1,16 +1,14 @@
 
-<h1>Bem vindo ao meu perfil! <br> Sou estudante de Ciência da Computação<h1>
+<h1>Bem vindo ao meu perfil! <br> Me chamo Bianca, tenho 19 anos e estou no 4° semestre de Ciência da Computação!<h1>
 
-<!--
 
-Here are some ideas to get you started:
+ 🌱 Linguagens que estou estudando:
+➡️**Java (iniciante)**;
+➡️**Python (iniciante)**;
+➡️**C (intermediário)**;
+➡️**JS (intermediário)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 Contatos: 
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
